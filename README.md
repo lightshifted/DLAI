@@ -26,7 +26,7 @@ the version that is most adaptable, can be prepared with minimal time commitment
 * [documentation] Complete definition of terms document for paper 1.
 * [documentation] Create slide deck outlining goals and completed tasks for week 9
 * [documentation] Create GitHub repository for project 
-* [data preprocessing] Feature selection on `hubspot_export.csv' for 2 pre-selected targets
+* [data preprocessing] Feature selection on `hubspot_export.csv` for 2 pre-selected targets
 
 
 ## Week 10: ML Project Deployment, An introduction ##
