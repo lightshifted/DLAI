@@ -16,7 +16,7 @@ the version that is most adaptable, can be prepared with minimal time commitment
 
 #### Base papers: #### 
 1. [Su. Q, Chen L. *A method for discovering clusters of e-commerce interest patterns using click-stream data.*(2014)](https://www.sciencedirect.com/science/article/abs/pii/S1567422314000726?via%3Dihub)
-2. [Roychowdhury S., et. al.*Categorizing Online Shopping Behaviour from Cosmetics to Electronics: An Analytical Framework.*(2020)[https://arxiv.org/abs/2010.02503]
+2. [Roychowdhury S., et. al. *Categorizing Online Shopping Behaviour from Cosmetics to Electronics: An Analytical Framework.*](2020)(https://arxiv.org/abs/2010.02503)
 
 #### Week 9 Tasks: ####
 * [data collection] Identify 1 public data set to benchmark on
