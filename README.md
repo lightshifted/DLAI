@@ -30,7 +30,7 @@ the version that is most adaptable, can be prepared with minimal time commitment
 * [data preprocessing] Feature selection on `hubspot_export.csv` for 2 pre-selected targets
 
 
-## Week 10: ML Project Deployment ##
+## Week 10: Project Deployment ##
 #### The deliverables for this week are as follows: ####
 1. Create slide deck for presentation to domain expert. Slide deck is to have: 
 - description of work completed thus far categorized by: Data, Process, Outcome
