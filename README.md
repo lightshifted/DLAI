@@ -30,4 +30,18 @@ the version that is most adaptable, can be prepared with minimal time commitment
 * [data preprocessing] Feature selection on `hubspot_export.csv` for 2 pre-selected targets
 
 
-## Week 10: ML Project Deployment, An introduction ##
+## Week 10: ML Project Deployment ##
+#### The deliverables for this week are as follows: ####
+1. Create slide deck for presentation to domain expert. Slide deck is to have: 
+- description of work completed thus far categorized by: Data, Process, Outcome
+- key results/metrics including examples of "bad" and "good" use cases
+- key bottlenecks/hurdles the team is facing
+- description of deliverables for week 11
+3. Prioritize effective communication
+- Set individual goals for team members and checkin (short meetings or over slack) frequently for updates. (atleast 2 meetings per week, if not more).
+- Ensure team members are pushing code to github regularly (atleast once each week)
+- Maintain a document where all team members can add their bottlenecks and challenges that must then be collated prior to meeting with SME.
+
+#### Week 10 Tasks: ####
+* [data preprocessing] Finish preprocessing of data set for clustering algorithim
+* [model building] Build LSTM for feature based classification using `hubspot_export.csv`
