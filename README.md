@@ -37,7 +37,7 @@ the version that is most adaptable, can be prepared with minimal time commitment
 - key results/metrics including examples of "bad" and "good" use cases
 - key bottlenecks/hurdles the team is facing
 - description of deliverables for week 11
-3. Prioritize effective communication
+2. Prioritize effective communication
 - Set individual goals for team members and checkin (short meetings or over slack) frequently for updates. (atleast 2 meetings per week, if not more).
 - Ensure team members are pushing code to github regularly (atleast once each week)
 - Maintain a document where all team members can add their bottlenecks and challenges that must then be collated prior to meeting with SME.
@@ -45,3 +45,4 @@ the version that is most adaptable, can be prepared with minimal time commitment
 #### Week 10 Tasks: ####
 * [data preprocessing] Finish preprocessing of data set for clustering algorithim
 * [model building] Build LSTM for feature based classification using `hubspot_export.csv`
+* [deployment]
