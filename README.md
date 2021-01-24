@@ -9,6 +9,13 @@ and work is completed in a timely fasion.
 3. Have begun AWS-based data processing
 4. Have developed ideas on how the final deployed version should look. This includes the description of frontend and backend considerations.
 
+#### Week 11 Tasks: ####
+* [data preprocessing] Given url sequence data, identify indices of rows containing "specialization", which signify users who've purchased DLAI courses
+* [data preprocessing] Merge url sequence array with hubspot export array to centralize users' information into a hub df. 
+* [model building] Complete buildout of classification model and begin training using hubspot export array.
+* [model building] Complete buildout of LSTM model and begin training it on url sequence data. 
+* [commmunication] Continue to maintain regular communication between team members
+
 ## Week 10: Setting Goals and Effective Communication ##
 #### The deliverables for this week are as follows: ####
 1. Create slide deck for presentation to domain expert. Slide deck is to have: 
