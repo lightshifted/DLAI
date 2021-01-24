@@ -2,6 +2,13 @@
 This documentation outlines suggested courses of action taken each week. It's main purpose is to ensure our team stays on track 
 and work is completed in a timely fasion.
 
+## Week 11: ML Project Deployment and AWS ##
+### The deliverables for this week are: ###
+1. Collect quantitative results to share regarding benchmarking. Start getting output performance metrics of sub-modules of our code base. 
+2. Prioritize the scripting and running of modules and submodules, retraining models and identifying limiting conditions and planning how to overcome them. 
+3. Have begun AWS-based data processing
+4. Have developed ideas on how the final deployed version should look. This includes the description of frontend and backend considerations.
+
 ## Week 10: Setting Goals and Effective Communication ##
 #### The deliverables for this week are as follows: ####
 1. Create slide deck for presentation to domain expert. Slide deck is to have: 
