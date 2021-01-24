@@ -1,4 +1,4 @@
-# DL.AI Captston Project: A Weekly Guide
+# DL.AI Captstone Project: A Weekly Guide
 This documentation outlines suggested courses of action taken each week. It's main purpose is to ensure our team stays on track 
 and work is completed in a timely fasion.
 
