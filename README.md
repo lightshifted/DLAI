@@ -1,4 +1,4 @@
-# DL.AI Captstone Project: A Weekly Guide
+# DL.AI Captstone Project
 
 #### Base papers: #### 
 1. Su. Q, Chen L. *A method for discovering clusters of e-commerce interest patterns using click-stream data.*(2014)(https://www.sciencedirect.com/science/article/abs/pii/S1567422314000726?via%3Dihub)
