@@ -1,4 +1,4 @@
-# Welcome to Deeplearnng.ai Captstone Project
+# Welcome to Deeplearnng.ai Capstone Project
 You will find technical reports, project status updates and copies of research papers in the Documents folder.
 #### Base papers: #### 
 1. Su. Q, Chen L. A method for discovering clusters of e-commerce interest patterns using click-stream data.(2014) (https://www.sciencedirect.com/science/article/abs/pii/S1567422314000726?via%3Dihub)
