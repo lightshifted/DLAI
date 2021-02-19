@@ -1,5 +1,12 @@
-# Welcome to Deeplearnng.ai Capstone Project
-You will find technical reports, project status updates and copies of research papers in the Documents folder.
+# Welcome to our Deeplearnng.ai capstone project repository!
+Here you will find our project codebase, technical reports detailing our work and findings, and other relevant project materials.
+
+### Project approach: 
+The project was divided into two tasks: 
+1. Analysis of users' customer journey
+2. Market segmentation
+
+The intial dataset provided to us by DeepLearning.ai contained no ground truth labels. Therefore, we relied upon unsupervised learning methods to accomplish our tasks.
 #### Base papers: #### 
 1. Su. Q, Chen L. A method for discovering clusters of e-commerce interest patterns using click-stream data.(2014) (https://www.sciencedirect.com/science/article/abs/pii/S1567422314000726?via%3Dihub)
 2. Roychowdhury S., et. al. Categorizing Online Shopping Behaviour from Cosmetics to Electronics: An Analytical Framework.(2020)(https://arxiv.org/abs/2010.02503)
