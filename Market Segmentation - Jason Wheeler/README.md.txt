@@ -1,0 +1,1 @@
+The technical report for the market segmentation task can be viewed here: <a href="https://observablehq.com/d/49e10841552c7a46">Market Segmentation: Deeplearning.ai</a>
